@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wifi Passwords Scanner</string>
+
+    <string name="action_show">Mise à jour wifis</string>
+    <string name="action_vulnerables">Wifis vulnérables</string>
+    <string name="action_delete_vulnerables">Supprimer wifis vulnérables</string>
+    <string name="action_settings">Configuration</string>
+    <string name="action_quit">Quitter</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Chargement</string>
+</resources>
